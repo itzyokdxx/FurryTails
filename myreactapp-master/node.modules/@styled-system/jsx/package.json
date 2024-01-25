@@ -1,0 +1,15 @@
+{
+  "name": "@styled-system/jsx",
+  "version": "5.0.13",
+  "description": "",
+  "type": "module",
+  "main": "dist/index.js",
+  "module": "dist/index.esm.js",
+  "author": "Brent Jackson <jxnblk@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@emotion/core": "^10.0.10",
+    "@styled-system/css": "^5.0.13"
+  },
+  "gitHead": "ad685ea3ba299170b6e8837aa8eccc33b1ae91f0"
+}
